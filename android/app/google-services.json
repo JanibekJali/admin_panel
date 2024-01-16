@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084591897200",
+    "project_id": "admin-panel-e08dd",
+    "storage_bucket": "admin-panel-e08dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084591897200:android:7ecb9a4d333a6b1a0ed2b5",
+        "android_client_info": {
+          "package_name": "com.example.admin_panel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkzf-zPDHTnZlArUGy7tQyovZ2jE4us84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
